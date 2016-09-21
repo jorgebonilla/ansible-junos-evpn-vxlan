@@ -4,7 +4,7 @@
 underlay:
   mtu_phy_int: 9192
   mtu_logical_int: 9000
-  network_size: 31
+  network_size: 30
   bfd:
     min_interval: 350
     multiplier: 3
